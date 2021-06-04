@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Tinder Clone with MERN Stack (MongoDB, Express, React, Node JS). The database is hosted by MongoDB while the backend Node Express is hosted using Heroku (https://tinder-backend-1107.herokuapp.com/). The Frontend is hosted by Firebase. Backend Github is available at https://github.com/tripathirakeshofficial/tinder-clone-backend.
+> Tinder Clone with MERN Stack (MongoDB, Express, React, Node JS). The database is hosted by MongoDB while the backend Node Express is hosted using Heroku (https://tinder-backend-1107.herokuapp.com). The Frontend is hosted by Firebase. Backend Github is available at https://github.com/tripathirakeshofficial/tinder-clone-backend.
 
 ### ✨ [Demo](https://tinder-clone-4cf68.web.app)
 
